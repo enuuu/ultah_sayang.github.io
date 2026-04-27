@@ -362,7 +362,7 @@ function initializeDefaultSettings() {
                 image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
             },
             { 
-                image: './image/photos/a1.jpg', // Menggantikan lhvuck.png (Index 1)
+                image: './image/photos/a3.jpg', // Menggantikan lhvuck.png (Index 1)
             },
 
             // --- Lembar 2 (data-page="1") ---
@@ -371,18 +371,18 @@ function initializeDefaultSettings() {
                 content: 'Happy Birthday Sayangg💗' 
             },
             { 
-                image: './image/photos/a3.jpg', // Menggantikan 8u5tf7.png (Index 3)
+                image: './image/photos/a5.jpg', // Menggantikan 8u5tf7.png (Index 3)
             },
 
             // --- Lembar 3 (data-page="2") ---
             { 
-                image: './image/photos/a5.jpg', // Menggantikan tbutvj.png (Index 4)
+                image: './image/photos/a4.jpg', // Menggantikan tbutvj.png (Index 4)
                 content: 'As long as you’re smiling, the world feels brighter and happier' 
             },            { 
-                image: './image/photos/a6.jpg', // Menggantikan bolsw2.png (Index 0)
+                image: './image/photos/a8.jpg', // Menggantikan bolsw2.png (Index 0)
             },
             { 
-                image: './image/photos/a8.jpg', // Menggantikan lhvuck.png (Index 1)
+                image: './image/photos/a11.jpg', // Menggantikan lhvuck.png (Index 1)
                 content: 'I hope your days are filled with happiness, your smile never fades, and your heart always finds peace.' 
             }
         ]
